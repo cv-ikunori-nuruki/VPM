@@ -1,0 +1,21 @@
+{
+  "name": "COVER vpm repo",
+  "author": "COVER",
+  "url": "https://github.com/cv-ikunori-nuruki/VPM/releases/download/Release/vmp.json",
+  "id": "com.cover.vpm",
+  "packages": {
+    "net.cover.VPMTest": {
+      "versions": {
+        "0.1.0": {
+          "version": "0.1.0",
+          "name": "com.cover.VRMTest",
+          "displayName": "VPMTest",
+          "description": "Test test test.",
+          "bugs": {
+            "url": "https://github.com/koyashiro/generic-data-container/issues"
+          }
+        }
+      }
+    }
+  }
+}

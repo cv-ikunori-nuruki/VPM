@@ -1,0 +1,16 @@
+{
+    "name" : "com.cover.VRMTest",
+    "displayName" : "Cover Test VPM",
+    "version" : "1.1.0",
+    "author": {
+      "name": "cover"
+    },
+    "unity" : "2022.3.22",
+    "description" : "This is test for VPM!",
+    "vpmDependencies" : {
+      "com.vrchat.worlds" : "3.1.0"
+    },
+    "legacyFolders" : {
+      "Assets/Cover/VPMTest": ""
+    }
+}
